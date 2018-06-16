@@ -1,0 +1,2 @@
+# movieinfo_mongodb
+scrapy爬取豆瓣电影排行榜信息并将信息插入到Mongodb数据库,python操作mongodb
